@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSLocationShare</string>
+    <string name="action_settings">Settings</string>
+    <string name="ShareButton">Share Location</string>
+</resources>
